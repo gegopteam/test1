@@ -1,0 +1,48 @@
+
+VIP6.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 146, 29
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 105
+  size: 171, 139
+  orig: 171, 139
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 0
+  size: 146, 105
+  orig: 146, 105
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 200, 56
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+youchi
+  rotate: true
+  xy: 171, 114
+  size: 130, 173
+  orig: 130, 173
+  offset: 0, 0
+  index: -1
+zuochi
+  rotate: false
+  xy: 344, 71
+  size: 130, 173
+  orig: 130, 173
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Texture/AltasImage/Chat/CFHD.tpsheet
+- Assets/Texture/AltasImage/GameImage/Illustrated/boards.tpsheet
+- Assets/Texture/AltasImage/GameImage/Illustrated/new.tpsheet
+- Assets/Texture/AltasImage/Notice/11.tpsheet
+- Assets/Texture/AltasImage/VIP/myVip.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Texture/AltasImage/Chat/CFHD.png
+- Assets/Texture/AltasImage/GameImage/Illustrated/boards.png
+- Assets/Texture/AltasImage/GameImage/Illustrated/new.png
+- Assets/Texture/AltasImage/Notice/11.png
+- Assets/Texture/AltasImage/VIP/myVip.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

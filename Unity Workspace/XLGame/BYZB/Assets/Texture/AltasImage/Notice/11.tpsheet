@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:93b88214ce2590ae3cdca6242d42278e:4c650b07d40ae574bc44d3539066ab3d:b25724eb2da2191b84bdd64398829b93$
+#
+:format=40300
+:texture=11.png
+:size=1024x256
+:pivotpoints=enabled
+:borders=disabled
+
+公告;753;28;109;45; 0.5;0.5; 0;0;0;0
+公告消息;515;12;236;61; 0.5;0.5; 0;0;0;0
+内框;1;9;512;246; 0.5;0.5; 0;0;0;0
+发布公告输入框;785;165;88;90; 0.5;0.5; 0;0;0;0
+发送按钮;515;163;268;92; 0.5;0.5; 0;0;0;0
+商城购买按钮;515;75;236;86; 0.5;0.5; 0;0;0;0
+喇叭;864;29;44;44; 0.5;0.5; 0;0;0;0
+底框;875;202;118;53; 0.5;0.5; 0;0;0;0
+残忍拒绝按钮;785;75;237;88; 0.5;0.5; 0;0;0;0

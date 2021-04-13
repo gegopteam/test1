@@ -1,0 +1,139 @@
+
+denglu.png
+size: 914,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong
+  rotate: false
+  xy: 724, 415
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 724, 514
+  size: 167, 163
+  orig: 167, 163
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 724, 388
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: false
+  xy: 642, 9
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+shayu
+  rotate: false
+  xy: 2, 2
+  size: 430, 374
+  orig: 430, 374
+  offset: 0, 0
+  index: -1
+shayuchi1
+  rotate: true
+  xy: 577, 31
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+shayuchi2
+  rotate: false
+  xy: 685, 63
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+shayumei1
+  rotate: true
+  xy: 577, 2
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+shayumei2
+  rotate: true
+  xy: 787, 27
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+shayuqi
+  rotate: false
+  xy: 434, 22
+  size: 141, 123
+  orig: 141, 123
+  offset: 0, 0
+  index: -1
+shayuyanjing1
+  rotate: false
+  xy: 768, 381
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shayuyanjing2
+  rotate: true
+  xy: 886, 117
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 434, 147
+  size: 251, 229
+  orig: 258, 229
+  offset: 7, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 685, 2
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 687, 141
+  size: 235, 211
+  orig: 235, 211
+  offset: 0, 0
+  index: -1
+yanzhu1
+  rotate: false
+  xy: 742, 11
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+yanzhu2
+  rotate: false
+  xy: 624, 2
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 787, 69
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 378
+  size: 720, 299
+  orig: 720, 299
+  offset: 0, 0
+  index: -1

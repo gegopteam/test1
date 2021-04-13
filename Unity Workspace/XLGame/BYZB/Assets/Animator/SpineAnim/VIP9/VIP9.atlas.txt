@@ -1,0 +1,97 @@
+
+VIP9.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paohuo
+  rotate: false
+  xy: 456, 180
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+paohuo2
+  rotate: true
+  xy: 272, 102
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+paokou
+  rotate: true
+  xy: 191, 105
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+paokouke
+  rotate: true
+  xy: 359, 193
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 135
+  size: 191, 119
+  orig: 191, 119
+  offset: 0, 0
+  index: -1
+youke
+  rotate: true
+  xy: 191, 189
+  size: 65, 168
+  orig: 65, 168
+  offset: 0, 0
+  index: -1
+youpao
+  rotate: true
+  xy: 0, 26
+  size: 43, 152
+  orig: 43, 152
+  offset: 0, 0
+  index: -1
+youshang
+  rotate: true
+  xy: 168, 74
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+youwei
+  rotate: true
+  xy: 246, 78
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+zuoke
+  rotate: true
+  xy: 0, 69
+  size: 66, 168
+  orig: 66, 168
+  offset: 0, 0
+  index: -1
+zuopao
+  rotate: true
+  xy: 191, 152
+  size: 37, 154
+  orig: 37, 154
+  offset: 0, 0
+  index: -1
+zuoshang
+  rotate: true
+  xy: 168, 43
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+zuowei
+  rotate: false
+  xy: 0, 0
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+VIP2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fujian
+  rotate: false
+  xy: 0, 108
+  size: 115, 137
+  orig: 115, 137
+  offset: 0, 0
+  index: -1
+paoguan
+  rotate: false
+  xy: 115, 181
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1

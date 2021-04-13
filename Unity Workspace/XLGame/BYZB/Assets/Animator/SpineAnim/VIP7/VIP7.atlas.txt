@@ -1,0 +1,62 @@
+
+VIP7.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paokou
+  rotate: false
+  xy: 344, 154
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 31
+  size: 208, 225
+  orig: 208, 225
+  offset: 0, 0
+  index: -1
+youce
+  rotate: true
+  xy: 344, 207
+  size: 49, 121
+  orig: 49, 121
+  offset: 0, 0
+  index: -1
+youpaokou
+  rotate: true
+  xy: 0, 0
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+youshuiguan
+  rotate: false
+  xy: 208, 46
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+zuoce
+  rotate: false
+  xy: 208, 135
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+zuopaokou
+  rotate: true
+  xy: 51, 0
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+zuoshuiguan
+  rotate: false
+  xy: 261, 167
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1

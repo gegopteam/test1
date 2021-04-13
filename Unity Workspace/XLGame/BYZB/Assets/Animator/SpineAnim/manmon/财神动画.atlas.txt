@@ -1,0 +1,125 @@
+
+财神动画.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 265
+  size: 816, 675
+  orig: 816, 675
+  offset: 0, 0
+  index: -1
+gold1
+  rotate: true
+  xy: 1854, 1744
+  size: 298, 162
+  orig: 298, 162
+  offset: 0, 0
+  index: -1
+gold2
+  rotate: false
+  xy: 820, 451
+  size: 228, 125
+  orig: 228, 125
+  offset: 0, 0
+  index: -1
+gold3
+  rotate: true
+  xy: 1358, 1038
+  size: 174, 95
+  orig: 174, 95
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 942
+  size: 947, 1100
+  orig: 947, 1100
+  offset: 0, 0
+  index: -1
+leftarm1
+  rotate: false
+  xy: 951, 1629
+  size: 522, 413
+  orig: 522, 413
+  offset: 0, 0
+  index: -1
+leftarm2
+  rotate: false
+  xy: 820, 293
+  size: 104, 156
+  orig: 104, 156
+  offset: 0, 0
+  index: -1
+leftgold
+  rotate: false
+  xy: 1475, 1173
+  size: 372, 205
+  orig: 372, 205
+  offset: 0, 0
+  index: -1
+lefthand1
+  rotate: false
+  xy: 1475, 1380
+  size: 373, 330
+  orig: 373, 330
+  offset: 0, 0
+  index: -1
+lefthand2
+  rotate: false
+  xy: 820, 578
+  size: 232, 362
+  orig: 232, 362
+  offset: 0, 0
+  index: -1
+raighthand1
+  rotate: false
+  xy: 1475, 1712
+  size: 377, 330
+  orig: 377, 330
+  offset: 0, 0
+  index: -1
+rightarm1
+  rotate: false
+  xy: 951, 1214
+  size: 522, 413
+  orig: 522, 413
+  offset: 0, 0
+  index: -1
+rightarm2
+  rotate: false
+  xy: 926, 293
+  size: 104, 156
+  orig: 104, 156
+  offset: 0, 0
+  index: -1
+rightgold
+  rotate: false
+  xy: 411, 36
+  size: 382, 227
+  orig: 382, 227
+  offset: 0, 0
+  index: -1
+righthand2
+  rotate: false
+  xy: 1054, 593
+  size: 232, 362
+  orig: 232, 362
+  offset: 0, 0
+  index: -1
+youyezi
+  rotate: false
+  xy: 951, 957
+  size: 405, 255
+  orig: 405, 255
+  offset: 0, 0
+  index: -1
+zuoyezi
+  rotate: false
+  xy: 2, 2
+  size: 407, 261
+  orig: 407, 261
+  offset: 0, 0
+  index: -1

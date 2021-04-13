@@ -1,0 +1,13 @@
+
+ShuangBeiPao.png
+size: 216,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShuangBeiPao
+  rotate: false
+  xy: 2, 2
+  size: 212, 208
+  orig: 212, 208
+  offset: 0, 0
+  index: -1

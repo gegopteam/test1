@@ -1,0 +1,34 @@
+
+VIP3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fujianyou
+  rotate: false
+  xy: 134, 136
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+fujianzuo
+  rotate: false
+  xy: 134, 29
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+paokou
+  rotate: true
+  xy: 2, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 87
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 53a59da94ba304c7aa566b4941d26fe6
+timeCreated: 1512031150
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u516C\u544A"
+    21300002: "\u516C\u544A\u6D88\u606F"
+    21300004: "\u5185\u6846"
+    21300006: "\u53D1\u5E03\u516C\u544A\u8F93\u5165\u6846"
+    21300008: "\u53D1\u9001\u6309\u94AE"
+    21300010: "\u5546\u57CE\u8D2D\u4E70\u6309\u94AE"
+    21300012: "\u5587\u53ED"
+    21300014: "\u5E95\u6846"
+    21300016: "\u6B8B\u5FCD\u62D2\u7EDD\u6309\u94AE"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u516C\u544A"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 28
+        width: 109
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u516C\u544A\u6D88\u606F"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 12
+        width: 236
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u5185\u6846"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 512
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u53D1\u5E03\u516C\u544A\u8F93\u5165\u6846"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 165
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u53D1\u9001\u6309\u94AE"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 163
+        width: 268
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u5546\u57CE\u8D2D\u4E70\u6309\u94AE"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 75
+        width: 236
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u5587\u53ED"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 29
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u5E95\u6846"
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 202
+        width: 118
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u6B8B\u5FCD\u62D2\u7EDD\u6309\u94AE"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 75
+        width: 237
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

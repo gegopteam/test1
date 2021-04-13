@@ -1,0 +1,62 @@
+
+VIP5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 0, 0
+  size: 134, 122
+  orig: 134, 122
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 0, 134
+  size: 136, 122
+  orig: 136, 122
+  offset: 0, 0
+  index: -1
+ding
+  rotate: false
+  xy: 460, 208
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 136, 164
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 217, 172
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+wei1
+  rotate: false
+  xy: 286, 180
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+wei2
+  rotate: false
+  xy: 342, 183
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+wei3
+  rotate: false
+  xy: 401, 187
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
